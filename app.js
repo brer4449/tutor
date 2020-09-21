@@ -1,8 +1,8 @@
-const covid = document.querySelector(".covid");
+const alert = document.querySelector(".alert");
 const xButton = document.querySelector(".close-alert");
 
 const deleteElement = () => {
-  covid.remove();
+  alert.remove();
 };
 
 xButton.addEventListener("click", deleteElement);
