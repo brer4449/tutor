@@ -1,0 +1,39 @@
+.covid {
+  text-align: center;
+  border-radius: 10px;
+  margin: 0;
+  padding: 0;
+  padding-right: 10px;
+}
+
+.covid-content {
+  margin-bottom: 0;
+}
+
+.close-alert {
+  float: right;
+  cursor: pointer;
+}
+
+.navbar {
+  padding: 40px 0px;
+  border: solid 1px black;
+}
+
+.parallax-div {
+  height: 500px;
+  background-image: url(https://images.pexels.com/photos/265076/pexels-photo-265076.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.indent {
+  margin: 5% 10%;
+}
+
+.reading {
+  height: 100%;
+  width: 100%;
+}
