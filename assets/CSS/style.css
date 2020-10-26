@@ -24,8 +24,23 @@
 table {
   border: solid 1px red;
   margin: 0 auto;
+  /* border-collapse: separate; */
+  /* border-spacing: 0 20px; */
+}
+
+.border-left {
+  border-left: solid 1px red !important;
+}
+
+.border-top {
+  border-top: solid 1px red !important;
+}
+
+.no-border-top {
+  border-top: solid 1px white !important;
 }
 
 th {
+  border-top: solid 1px red !important;
   border-bottom: solid 1px red;
 }
