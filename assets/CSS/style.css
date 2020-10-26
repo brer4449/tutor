@@ -44,3 +44,7 @@ th {
   border-top: solid 1px red !important;
   border-bottom: solid 1px red;
 }
+
+footer {
+  background-color: #f5f5f5;
+}
